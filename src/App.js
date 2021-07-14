@@ -14,6 +14,7 @@ import FavoriteMovieList from './components/FavoriteMovieList';
 const App = props => {
   const displayFavorites = true;
 
+
   return (
     <div>
       <nav className="navbar navbar-dark bg-dark">
@@ -48,4 +49,5 @@ const App = props => {
   );
 };
 
-export default App;
+
+export default App; 
